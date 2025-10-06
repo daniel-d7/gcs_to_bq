@@ -259,7 +259,3 @@ For issues and questions:
 - Check Cloud Function logs
 - Review BigQuery job history
 - Monitor Cloud Function metrics in Cloud Monitoring
-
-## License
-
-[Add your license information here]
